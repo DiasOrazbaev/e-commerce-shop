@@ -2,7 +2,7 @@
 .header__row {
     position: relative;
     display: flex;
-    justify-content: flex-end; /* выравнивать элементы по конце основной оси х */
+    justify-content: flex-end; /* Выравнивание флекс-элементов с конца */
 }
 
 
@@ -50,9 +50,6 @@
     line-height: 1;
     text-align: center;
     color: #FFFFFF;
-}
-
-.header__photo {
 }
 
 .button:hover{
